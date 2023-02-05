@@ -5,7 +5,7 @@ import React from 'react';
 function Button() {
   return (
     <View>
-      <Text>Button</Text>
+      <Text>Button 2</Text>
     </View>
   );
 }
